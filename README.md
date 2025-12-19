@@ -52,4 +52,8 @@ Elle présente :
 - Un exemple simple de **fusion de capteurs** et une **comparaison** entre :
   1) **Odométrie seule**  
   2) **Odométrie + IMU + LiDAR**
-- L’affichage du **nuage de points LiDAR** dans RViz, ainsi que l’évolution de la trajectoire/pose estimée.
+- L’affichage du *
+*nuage de points LiDAR** dans RViz, ainsi que l’évolution de la trajectoire/pose estimée.
+
+https://github.com/user-attachments/assets/da7d7c57-9a8b-4318-9f9b-78eda55cb568
+
