@@ -30,12 +30,12 @@ Projet d’évaluation et d’intégration de briques de localisation multi-capt
 
 
 
-## Sujet du projet
-➡️ **Énoncé / cahier des charges (PDF)** : [ProjetsSMART25-26_ToSyMA_EZ_sujet3-4.pdf](docs/ProjetsSMART25-26_ToSyMA_EZ_sujet3-4.pdf)
+➡️ **Énoncé / cahier des charges (PDF)** : [ProjetsSMART25-26_ToSyMA_EZ_sujet3-4.pdf](ProjetsSMART25-26_ToSyMA_EZ_sujet3-4.pdf)
 
 ## Résultats
-tableaux/graphes (précision, latence, continuité), comparaisons de méthodes.  
+Tableaux/graphes (précision, latence, continuité) et comparaisons de méthodes.  
 Notebook EKF (démo fusion) : [test_ekf.ipynb](test_ekf.ipynb)
+
 
 ## Auteurs
 - Ton nom (+ coéquipier si besoin)
