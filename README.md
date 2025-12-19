@@ -45,7 +45,7 @@ Notebook EKF (démo fusion) : [test_ekf.ipynb](test_ekf.ipynb)
 
 ## Démo vidéo (CARLA → ROS 2 → RViz)
 
-Une vidéo de démonstration sera ajoutée ici : **[lien à venir]**.
+Une vidéo de démonstration ici :
 
 Elle présente :
 - Une **simulation CARLA enregistrée puis rejouée** via **ROS 2**, visualisée dans **RViz** (véhicule se déplaçant sur le scénario).
