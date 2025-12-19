@@ -56,4 +56,5 @@ Elle présente :
 *nuage de points LiDAR** dans RViz, ainsi que l’évolution de la trajectoire/pose estimée.
 
 https://github.com/user-attachments/assets/da7d7c57-9a8b-4318-9f9b-78eda55cb568
+<img width="1311" height="641" alt="Screenshot from 2025-12-04 21-14-44" src="https://github.com/user-attachments/assets/95580bf7-3f11-4388-a766-4d02e38dd873" />
 
