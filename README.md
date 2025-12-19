@@ -28,18 +28,28 @@ Projet d’évaluation et d’intégration de briques de localisation multi-capt
 4. Mesures & comparaison : pose, latence, continuité.
 5. Analyse : impact de chaque capteur sur la précision.
 
-## Organisation du repo
-- `docs/` : rapport, notes, schémas
-- `src/` : scripts ROS 2 (launch, nodes, config)
-- `configs/` : paramètres capteurs / fusion / mapping
-- `eval/` : scripts d’évaluation (métriques, plots)
-- `data/` : (vide) instructions pour données (ne pas commit de données lourdes)
+
+
+## Sujet du projet
+➡️ **Énoncé / cahier des charges (PDF)** : [ProjetsSMART25-26_ToSyMA_EZ_sujet3-4.pdf](docs/ProjetsSMART25-26_ToSyMA_EZ_sujet3-4.pdf)
 
 ## Résultats
-> À compléter : tableaux/graphes (précision, latence, continuité), comparaisons de méthodes. 
+tableaux/graphes (précision, latence, continuité), comparaisons de méthodes.  
+Notebook EKF (démo fusion) : [test_ekf.ipynb](test_ekf.ipynb)
 
 ## Auteurs
 - Ton nom (+ coéquipier si besoin)
 
 ## Références
 - Sujet du projet / plateforme ToSyMA – Université de Lille :contentReference[oaicite:5]{index=5}
+
+## Démo vidéo (CARLA → ROS 2 → RViz)
+
+Une vidéo de démonstration sera ajoutée ici : **[lien à venir]**.
+
+Elle présente :
+- Une **simulation CARLA enregistrée puis rejouée** via **ROS 2**, visualisée dans **RViz** (véhicule se déplaçant sur le scénario).
+- Un exemple simple de **fusion de capteurs** et une **comparaison** entre :
+  1) **Odométrie seule**  
+  2) **Odométrie + IMU + LiDAR**
+- L’affichage du **nuage de points LiDAR** dans RViz, ainsi que l’évolution de la trajectoire/pose estimée.
