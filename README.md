@@ -36,7 +36,7 @@ Projet d’évaluation et d’intégration de briques de localisation multi-capt
 - `data/` : (vide) instructions pour données (ne pas commit de données lourdes)
 
 ## Résultats
-> À compléter : tableaux/graphes (précision, latence, continuité), comparaisons de méthodes.
+> À compléter : tableaux/graphes (précision, latence, continuité), comparaisons de méthodes. 
 
 ## Auteurs
 - Ton nom (+ coéquipier si besoin)
