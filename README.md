@@ -38,7 +38,7 @@ Notebook EKF (démo fusion) : [test_ekf.ipynb](test_ekf.ipynb)
 
 
 ## Auteurs
-- Ton nom (+ coéquipier si besoin)
+- Touwende OUEDRAOGO
 
 ## Références
 - Sujet du projet / plateforme ToSyMA – Université de Lille :contentReference[oaicite:5]{index=5}
